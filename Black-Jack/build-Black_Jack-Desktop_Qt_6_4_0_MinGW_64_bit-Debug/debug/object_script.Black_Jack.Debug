@@ -1,0 +1,14 @@
+debug/game.o
+debug/game_structs.o
+debug/gamebar_logic.o
+debug/gamebar_rendering.o
+debug/main.o
+debug/main_menu.o
+debug/skin_menu.o
+debug/window_logic.o
+debug/window_slots.o
+debug/moc_game.o
+debug/moc_gamebar.o
+debug/moc_main_menu.o
+debug/moc_skin_menu.o
+debug/moc_window.o
